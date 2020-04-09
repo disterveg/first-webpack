@@ -1,0 +1,28 @@
+{
+  "name": "first-webpack",
+  "version": "1.0.0",
+  "description": "webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disterveg/first-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "javascript",
+    "js"
+  ],
+  "author": "disterveg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disterveg/first-webpack/issues"
+  },
+  "homepage": "https://github.com/disterveg/first-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
