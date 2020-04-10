@@ -4,6 +4,6 @@ $('<h1 />')
     .text('hello world jquery')
     .css({
         textAlign: 'center',
-        color: 'red'
+        color: 'blue'
     })
     .appendTo($('header'));
