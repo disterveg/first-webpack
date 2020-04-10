@@ -18,7 +18,7 @@ module.exports = {
   },
   devServer: {
     contentBase: path.resolve(__dirname, 'dist'),
-    port: 4200
+    port: 4300
   },
   plugins: [
     new HTMLPlugin({
@@ -34,6 +34,10 @@ module.exports = {
       {
         test: /\.css$/i,
         use: [MiniCssExtractPlugin.loader, 'css-loader']
+      },
+      {
+        test: /\.less$/i,
+        use: [MiniCssExtractPlugin.loader, 'css-loader', 'less-loader']
       },
       { test: /\.js$/, 
         exclude: /node_modules/, 
