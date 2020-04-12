@@ -3,6 +3,7 @@ import {render} from 'react-dom'
 import AppService from './modules/app.service';
 import App from './App'
 import {config} from './modules/config';
+import './modules/ts.module';
 
 import './css/index.css';
 import './less/index.less';
