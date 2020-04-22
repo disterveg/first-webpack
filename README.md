@@ -1,9 +1,9 @@
 # overview-webpack
-Мое первое приложение с использованием инструмента Webpack 4+, для реализации всех базовых и часто используемых задач при современной веб разработке: 
- - модульность,
- - компиляция препроцессоров,
- - компиляция TypeScript,
- - работа с React jsx,
- - Babel,
- - локальный сервер для разработки,
- - работа с любым типом файлов и два режима сборки проекта.
+My first app with Webpack 4+ for solution base tasks in modern designs of app: 
+ - modularity,
+ - compilation preprocessor,
+ - compilation TypeScript,
+ - using React jsx,
+ - using Babel,
+ - dev local server,
+ - work with any file types and two build modes project.
