@@ -1,5 +1,5 @@
 {
-  "name": "first-webpack",
+  "name": "overview-webpack",
   "version": "1.0.0",
   "description": "webpack project",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/disterveg/first-webpack.git"
+    "url": "git+https://github.com/disterveg/overview-webpack.git"
   },
   "keywords": [
     "webpack",
@@ -21,9 +21,9 @@
   "author": "disterveg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/disterveg/first-webpack/issues"
+    "url": "https://github.com/disterveg/overview-webpack/issues"
   },
-  "homepage": "https://github.com/disterveg/first-webpack#readme",
+  "homepage": "https://github.com/disterveg/overview-webpack#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
